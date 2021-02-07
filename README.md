@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DONSIMON92/DONSIMON92/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="https://github.com/DONSIMON92/DONSIMON92/blob/main/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 </div>
 <!--
 **DONSIMON92/DONSIMON92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
