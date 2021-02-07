@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![welcome board](https://github.com/DONSIMON92/DONSIMON92/blob/master/welcome.png)
+
 <!--
 **DONSIMON92/DONSIMON92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
