@@ -3,6 +3,9 @@
 <div align="center">
   <img src="https://github.com/DONSIMON92/DONSIMON92/blob/main/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 </div>
+
+* matrix: `@dontkillkenny:matrix.org`
+
 <!--
 **DONSIMON92/DONSIMON92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
