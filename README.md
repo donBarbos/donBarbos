@@ -6,7 +6,7 @@
 
 #### My contacts:
 * matrix: `@dontkillkenny:matrix.org`
-* [![Keybase PGP](https://img.shields.io/keybase/pgp/DONSIMON92)](https://github.com/DONSIMON92.gpg)
+* public key: [![Keybase PGP](https://img.shields.io/keybase/pgp/DONSIMON92)](https://github.com/DONSIMON92.gpg)
 
 <!--
 **DONSIMON92/DONSIMON92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
