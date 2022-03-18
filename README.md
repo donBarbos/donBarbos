@@ -5,7 +5,7 @@
 </div>
 
 #### My contacts:
-* matrix: `@dontkillkenny:matrix.org
+* matrix: `@dontkillkenny:matrix.org`
 * [![Keybase PGP](https://img.shields.io/keybase/pgp/DONSIMON92)](https://github.com/DONSIMON92.gpg)
 
 <!--
