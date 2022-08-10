@@ -1,15 +1,13 @@
-### Hi there 👋
-
 <div align="center">
-  <img src="https://github.com/DONSIMON92/DONSIMON92/blob/main/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="https://github.com/donBarbos/donBarbos/blob/main/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 </div>
 
 #### My contacts:
 * matrix: `@dontkillkenny:matrix.org`
-* public key: [![Keybase PGP](https://img.shields.io/keybase/pgp/DONSIMON92)](https://github.com/donBarbos.gpg)
+* PGP fingerprint: [`6B3A D563 4860 3062 CB2E 5D17 3648 DFC7 ACC7 66B0`](https://github.com/donBarbos.gpg)
 
 <!--
-**DONSIMON92/DONSIMON92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**donBarbos/donBarbos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
