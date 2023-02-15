@@ -6,6 +6,7 @@
 <!--- * matrix: `@dontkillkenny:matrix.org` -->
 * PGP fingerprint: [`6B3A D563 4860 3062 CB2E 5D17 3648 DFC7 ACC7 66B0`](https://github.com/donBarbos.gpg)
 * email: [`donbarbos@proton.me`](mailto:donbarbos@proton.me)
+* telegram: [`@donBarbos`](https://t.me/donBarbos)
 
 <!--- need add github token
 ### My Stats:
