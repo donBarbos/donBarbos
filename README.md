@@ -6,8 +6,10 @@
 <!--- * matrix: `@dontkillkenny:matrix.org` -->
 * PGP fingerprint: [`6B3A D563 4860 3062 CB2E 5D17 3648 DFC7 ACC7 66B0`](https://github.com/donBarbos.gpg)
 * email: [`donbarbos@proton.me`](mailto:donbarbos@proton.me)
+* keybase: [`@donBarbos`](https://keybase.io/donBarbos)
 * telegram: [`@donBarbos`](https://t.me/donBarbos)
-* keybase: [`@donbarbos`](https://keybase.io/donBarbos)
+* kaggle: [`@donBarbos`](https://www.kaggle.com/donbarbos)
+* website: [`dontkillkenny.com`](https://www.dontkillkenny.com/)
 
 <!--- need add github token
 ### My Stats:
