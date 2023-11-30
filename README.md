@@ -9,7 +9,7 @@
 * keybase: [`@donBarbos`](https://keybase.io/donBarbos)
 * telegram: [`@donBarbos`](https://t.me/donBarbos)
 * kaggle: [`@donBarbos`](https://www.kaggle.com/donbarbos)
-* website: [`dontkillkenny.com`](https://www.dontkillkenny.com/)
+* website: [`donbarbos.vercel.app`](https://donbarbos.vercel.app/)
 
 <!--- need add github token
 ### My Stats:
