@@ -1,10 +1,10 @@
-<div align="center">
-  <img src="https://github.com/donBarbos/donBarbos/blob/main/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+<div align="left">
+  <img src="https://github.com/donBarbos/donBarbos/blob/main/welcome.png" width="50%" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 </div>
 
 ### My contacts:
 <!--- * matrix: `@dontkillkenny:matrix.org` -->
-* PGP fingerprint: [`6B3A D563 4860 3062 CB2E 5D17 3648 DFC7 ACC7 66B0`](https://github.com/donBarbos.gpg)
+* PGP fingerprint: [`4963 CCB4 F5E5 D09C F8B1 1942 CE6C 43EE D908 EF1F`](https://github.com/donBarbos.gpg)
 * email: [`donbarbos@proton.me`](mailto:donbarbos@proton.me)
 * keybase: [`@donBarbos`](https://keybase.io/donBarbos)
 * telegram: [`@donBarbos`](https://t.me/donBarbos)
