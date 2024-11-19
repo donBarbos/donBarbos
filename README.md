@@ -1,6 +1,8 @@
+<!--
 <div align="left">
   <img src="https://github.com/donBarbos/donBarbos/blob/main/welcome.png" width="50%" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 </div>
+-->
 
 ### My contacts:
 <!--- * matrix: `@dontkillkenny:matrix.org` -->
